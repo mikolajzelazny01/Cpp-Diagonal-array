@@ -1,4 +1,4 @@
-# Cpp-Diagonal-table
+# Cpp-Diagonal-array
 <p align="justify">Assignment from the tutor. <br>
 Topic: 
 Write, according to the principles of object-oriented programming, a program that randomly places in a 10×10 array
